@@ -28,5 +28,5 @@ Perfect for **beginners learning Python** and practicing loops, conditionals, fu
 python rps.py 
 
 ```
-   **❤️ Made with love: Zaynab**
+   **❤️ Made with love: Zaynab Marzak**
  
